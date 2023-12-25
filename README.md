@@ -1,2 +1,2 @@
 # Yalda-fal
- Enter your name to get random peom
+ Enter your name to get random poem
